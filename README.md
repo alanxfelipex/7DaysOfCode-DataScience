@@ -10,3 +10,7 @@
 <h2>O Segundo projeto é para criar um sistema de Recomendação de Filmes.</h2>
 <br>
 <p>Dia 04 - Sistema de Recomendação | <a href="https://github.com/alanxfelipex/7DaysOfCode-DataScience/blob/main/04_recomendacao_7days.ipynb">Jupyter Notebook</a> | <a href="https://medium.com/@conversandoemcodigos/sistema-de-recomenda%C3%A7%C3%A3o-de-filmes-7-days-of-code-dia-04-faa784f4596d">Medium</a></p>
+<p>Dia 05 - Disponibilizando API | <a href="https://github.com/alanxfelipex/7DaysOfCode-DataScience/blob/main/05_api_7days.ipynb">Jupyter Notebook</a> | <a href="https://medium.com/@conversandoemcodigos/disponibilizando-o-meu-modelo-de-recomenda%C3%A7%C3%A3o-de-filmes-7-days-of-code-dia-05-f8a1c2d04852">Medium</a></p>
+<h2>O Terceiro projeto é Fazer um teste A/B.</h2>
+<br>
+<p>Dia 06 - Teste A/B | <a href="https://github.com/alanxfelipex/7DaysOfCode-DataScience/blob/main/06_teste_ab_7daysofcode.ipynb">Jupyter Notebook</a> | <a href="https://medium.com/@conversandoemcodigos/como-saber-qual-vers%C3%A3o-de-um-site-vende-mais-7-days-of-code-dia-06-4cdc728d8daf">Medium</a></p>
