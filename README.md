@@ -14,3 +14,7 @@
 <h2>O Terceiro projeto é Fazer um teste A/B.</h2>
 <br>
 <p>Dia 06 - Teste A/B | <a href="https://github.com/alanxfelipex/7DaysOfCode-DataScience/blob/main/06_teste_ab_7daysofcode.ipynb">Jupyter Notebook</a> | <a href="https://medium.com/@conversandoemcodigos/como-saber-qual-vers%C3%A3o-de-um-site-vende-mais-7-days-of-code-dia-06-4cdc728d8daf">Medium</a></p>
+<br>
+<h2>Reflexões sobre o 7 Days of Code</h2>
+<br>
+Dia 07 - Documentação | <a href="https://medium.com/@conversandoemcodigos/documentando-a-jornada-7-days-of-code-dia-07-941ea869d27b">Medium</a></p>
